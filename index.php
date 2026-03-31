@@ -5,6 +5,8 @@ include("functions/functions.php");
 ?>
 <html>
 //hello bhai log
+
+	system.out.println("5");
 <head>
 
 	<title>
